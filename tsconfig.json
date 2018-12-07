@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "dist",
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
+    "lib": ["es5", "es6", "es7", "es2017", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "compiled",
+    "removeComments": true,
+    "pretty": true,
+    "strict": true,
+    "target": "es5",
+    "typeRoots": ["node_modules/@types"],
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

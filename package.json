@@ -1,0 +1,43 @@
+{
+  "name": "react-lucky-box",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "rm -rf dist && rm -rf compiled",
+    "build": "tsc && rollup -c",
+    "tslint": "tslint -c tslint.json --project tsconfig.json"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{ts,tsx}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "semi": false
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.13",
+    "husky": "^1.2.0",
+    "lint-staged": "^8.1.0",
+    "prettier": "1.15.3",
+    "rollup": "^0.67.4",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "tslint": "^5.11.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.2.1"
+  },
+  "peerDependencies": {
+    "react": "^15.4.0 || ^16.0.0"
+  }
+}

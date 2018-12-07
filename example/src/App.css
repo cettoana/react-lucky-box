@@ -1,0 +1,49 @@
+.app {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.logo {
+  animation: logo-spin infinite 20s linear;
+  height: 20vmin;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+}
+
+.wrap {
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+
+.wrap button {
+  padding: 8px 16px;
+}
+
+.motto h4 {
+  color: #BCBCBC;
+}
+
+.red {
+  color: #FF6D88;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-react",
+    "tslint-config-airbnb",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "semicolon": [true, "never"],
+    "interface-name": [true, "never-prefix"],
+    "member-access": [true, "no-public"],
+    "no-multi-spaces": true
+  }
+}
