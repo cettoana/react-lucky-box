@@ -19,6 +19,7 @@ class Bingo extends Component {
           {
             ({ lot, draw }) => (
               <div>
+                <span>Your Lucky Number is:</span>
                 {lot}
                 <button onClick={() => draw()}>Redraw</button>
               </div>
