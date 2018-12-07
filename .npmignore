@@ -1,0 +1,18 @@
+# exmaple
+/example
+
+# dependencies
+/node_modules
+
+# source
+/src
+
+# compiled
+/compiled
+
+.gitignore
+.npmignore
+rollup.config.js
+tsconfig.json
+tslint.json
+yarn.lock
