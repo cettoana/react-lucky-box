@@ -1,8 +1,11 @@
 # React Lucky Box
 
-Draw lots from react prop
+Draw lots from React prop
 
-[Demo](https://cettoana.github.io/react-lucky-box)
+[![npm version](https://img.shields.io/npm/v/react-lucky-box.svg?style=flat-square)](https://www.npmjs.com/package/react-lucky-box)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](#badge)
+
+Go to [live example](https://cettoana.github.io/react-lucky-box)
 
 ## Install
 

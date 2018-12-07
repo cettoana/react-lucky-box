@@ -2,14 +2,21 @@
   "name": "react-lucky-box-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cettoana.github.io/react-lucky-box",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-lucky-box": "latest",
     "react-scripts": "2.1.1"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   },
   "eslintConfig": {
     "extends": "react-app"
