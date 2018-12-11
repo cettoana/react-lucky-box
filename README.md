@@ -3,6 +3,7 @@
 Draw lots from React prop
 
 [![npm version](https://img.shields.io/npm/v/react-lucky-box.svg?style=flat-square)](https://www.npmjs.com/package/react-lucky-box)
+[![license](https://img.shields.io/npm/l/react-lucky-box.svg?style=flat-square)](./LICENSE)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](#badge)
 
 ## Example
