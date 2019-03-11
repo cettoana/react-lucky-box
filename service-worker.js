@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-lucky-box/precache-manifest.64477c7ae9ea2c7ab3611c8be2c84372.js"
+  "/react-lucky-box/precache-manifest.d4d57ca7132378ed73639f64e24197de.js"
 );
 
 workbox.clientsClaim();

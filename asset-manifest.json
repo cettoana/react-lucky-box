@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-lucky-box/static/css/main.73e6c310.chunk.css",
-  "main.js": "/react-lucky-box/static/js/main.ffee686c.chunk.js",
-  "main.js.map": "/react-lucky-box/static/js/main.ffee686c.chunk.js.map",
-  "static/js/1.0d22e154.chunk.js": "/react-lucky-box/static/js/1.0d22e154.chunk.js",
-  "static/js/1.0d22e154.chunk.js.map": "/react-lucky-box/static/js/1.0d22e154.chunk.js.map",
-  "runtime~main.js": "/react-lucky-box/static/js/runtime~main.4ed988e6.js",
-  "runtime~main.js.map": "/react-lucky-box/static/js/runtime~main.4ed988e6.js.map",
-  "static/media/logo.svg": "/react-lucky-box/static/media/logo.5d5d9eef.svg",
-  "static/css/main.73e6c310.chunk.css.map": "/react-lucky-box/static/css/main.73e6c310.chunk.css.map",
+  "main.css": "/react-lucky-box/static/css/main.1e612113.chunk.css",
+  "main.js": "/react-lucky-box/static/js/main.3753dd77.chunk.js",
+  "main.js.map": "/react-lucky-box/static/js/main.3753dd77.chunk.js.map",
+  "runtime~main.js": "/react-lucky-box/static/js/runtime~main.e96b07b2.js",
+  "runtime~main.js.map": "/react-lucky-box/static/js/runtime~main.e96b07b2.js.map",
+  "static/js/2.c90ea769.chunk.js": "/react-lucky-box/static/js/2.c90ea769.chunk.js",
+  "static/js/2.c90ea769.chunk.js.map": "/react-lucky-box/static/js/2.c90ea769.chunk.js.map",
   "index.html": "/react-lucky-box/index.html",
-  "precache-manifest.64477c7ae9ea2c7ab3611c8be2c84372.js": "/react-lucky-box/precache-manifest.64477c7ae9ea2c7ab3611c8be2c84372.js",
-  "service-worker.js": "/react-lucky-box/service-worker.js"
+  "precache-manifest.d4d57ca7132378ed73639f64e24197de.js": "/react-lucky-box/precache-manifest.d4d57ca7132378ed73639f64e24197de.js",
+  "service-worker.js": "/react-lucky-box/service-worker.js",
+  "static/css/main.1e612113.chunk.css.map": "/react-lucky-box/static/css/main.1e612113.chunk.css.map",
+  "static/media/logo.svg": "/react-lucky-box/static/media/logo.5d5d9eef.svg"
 }
