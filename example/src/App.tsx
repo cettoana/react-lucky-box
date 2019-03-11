@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
-import Bingo from './Bingo';
-import Motto from './Motto';
+import React, { Component } from 'react'
+import Bingo from './Bingo'
+import Motto from './Motto'
 
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import logo from './logo.svg'
 
 class App extends Component {
   render() {
@@ -16,8 +16,8 @@ class App extends Component {
           <Motto />
         </div>
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
