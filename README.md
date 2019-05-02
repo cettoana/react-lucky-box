@@ -1,6 +1,6 @@
 # React Lucky Box
 
-Draw lots from React prop
+🎲 Render random React component from set
 
 [![npm version](https://img.shields.io/npm/v/react-lucky-box.svg?style=flat-square)](https://www.npmjs.com/package/react-lucky-box)
 [![license](https://img.shields.io/npm/l/react-lucky-box.svg?style=flat-square)](./LICENSE)
@@ -16,6 +16,12 @@ Go to [live example](https://cettoana.github.io/react-lucky-box) or
 
 ```bash
 npm install react-lucky-box --save
+```
+
+or
+
+```bash
+yarn add react-lucky-box
 ```
 
 ## Example
